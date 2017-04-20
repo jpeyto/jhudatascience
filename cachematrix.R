@@ -1,4 +1,4 @@
-#  cacheMatrix.R
+#  cacheMatrix.R 
 ## This script contains two functions for efficiently calculating the inverse of a matrix
 ## The first function (makeCacheMatrix) is used to create a list that contains the matrix
 ## The second function (cacheSolve) either calculates the inverse, or returns a cached solution
